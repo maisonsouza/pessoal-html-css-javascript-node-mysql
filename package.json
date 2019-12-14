@@ -1,0 +1,22 @@
+{
+  "name": "pessoal-html-css-javascript-node-mysql",
+  "version": "1.0.0",
+  "description": "Projeto pessoal HTML com Node + Mysql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maisonsouza/pessoal-html-css-javascript-node-mysql.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Maison Galvão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maisonsouza/pessoal-html-css-javascript-node-mysql/issues"
+  },
+  "homepage": "https://github.com/maisonsouza/pessoal-html-css-javascript-node-mysql#readme"
+}
